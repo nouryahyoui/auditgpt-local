@@ -1,0 +1,7 @@
+venv/
+db/
+__pycache__/
+test.pdf
+users.json
+audit.log
+benchmark_resultats.csv
